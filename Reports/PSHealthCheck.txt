@@ -1,0 +1,10 @@
+========================================
+               PC HEALTH CHECK          
+========================================
+
+Computer Name   : PF51FE8L
+User Name       : YuriiOverchuk
+Windows Version : Microsoft Windows 11 Business
+Processor Model : Intel(R) Core(TM) Ultra 7 155H
+Total RAM       : 16619384832
+
